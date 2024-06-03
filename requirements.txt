@@ -1,4 +1,10 @@
-streamlit
-transformers
 torch
-Pillow
+torchvision
+pillow
+numpy
+typing
+scikit-image
+streamlit
+huggingface_hub
+transformers>=4.39.1
+requests
